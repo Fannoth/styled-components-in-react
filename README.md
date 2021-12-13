@@ -1,3 +1,21 @@
+# [Live server](link)
+
+## Table of contest
+* [Live Server](#live-server)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Getting Started](*getting-started-with-create-react-app)
+
+## General info
+- Simple Website
+- Avaible in every resolution
+
+## Technologies
+Project is created with:
+- React
+- react-router-dom
+- styled-components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
