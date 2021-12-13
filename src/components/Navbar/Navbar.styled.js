@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { GiAbstract061 } from 'react-icons/gi';
 import { Link } from 'react-router-dom';
-import { Container } from '../../GlobalStyles';
+import { Container } from '../../globalStyles';
 
 export const Nav = styled.nav`
   background: #101522;

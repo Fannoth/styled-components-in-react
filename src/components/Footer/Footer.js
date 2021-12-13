@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "../../GlobalStyles";
+import { Button } from "../../globalStyles";
 import {
   FaFacebook,
   FaInstagram,

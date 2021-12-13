@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { IconContext } from 'react-icons/lib';
-import { Button } from '../../GlobalStyles';
+import { Button } from '../../globalStyles';
 import {
   Nav,
   NavbarContainer,
