@@ -1,4 +1,4 @@
-# [Live server](link)
+# [Live server](https://fannoth-scr.netlify.app/)
 
 ## Table of contest
 * [Live Server](#live-server)
