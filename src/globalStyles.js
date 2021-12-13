@@ -36,7 +36,7 @@ export const Button = styled.button`
   cursor: pointer;
 
   &:hover {
-    transition: all 0.3s ease-out;
+    transition: all 0.4s ease-out;
     background: #fff;
     background: ${({ primary }) => (primary ? "#0467FB" : "#4B59F7")};
   }
